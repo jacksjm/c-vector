@@ -26,7 +26,7 @@
     * -7777 - Ordem Decrescente
 
 Exemplos de utilização:
-* `make TIPARQ=20`: Irá gerar um Array de tamanho 20 composto de valores aleatórios e ordenará pelo metodo Quicksort;
+* `make TAMARQ=20`: Irá gerar um Array de tamanho 20 composto de valores aleatórios e ordenará pelo metodo Quicksort;
 * `make TIPSORT=2`: Irá gerar um Array de tamanho 10 composto de valores aleatórios e ordenará pelo metodo BubbleSort;
 * `make TIPORD=-7777`: Irá gerar um Array de tamanho 10 composto de valores ordenados de maneira decrescente e ordenará pelo metodo Quicksort;
-* `make TIPARQ=30 TIPSORT=3 TIPORD=-7777`: Irá gerar um Array de tamanho 30 composto de valores ordenados de maneira decrescente e ordenará pelo metodo MergeSort;
+* `make TAMARQ=30 TIPSORT=3 TIPORD=-7777`: Irá gerar um Array de tamanho 30 composto de valores ordenados de maneira decrescente e ordenará pelo metodo MergeSort;
